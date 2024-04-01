@@ -8,5 +8,5 @@
     width: 20%;
 }
 .cabecalho-lista-item{
-    display: inline-flex;
+    display:inline-block;
 }
