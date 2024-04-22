@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+body{
+    font-family: 'Sedan' Regular 400;
+}
 .cabecalho{
     background-color: #383D58;
     color: white;
