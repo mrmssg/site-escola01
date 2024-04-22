@@ -53,7 +53,7 @@ body{
     display: grid;
     grid-template-columns: 20% 20% 20% 20%;
 }
-.estudante-titulo{
+.estudantes-titulo{
     text-align: center;
     padding: 24px 0;
 }
