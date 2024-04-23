@@ -30,8 +30,8 @@ body{
     width: 25%;
 }
 .escola{
-    background-image:linear-gradient(#f5e506,#000107) ;
-    color: brown;
+    background-image:linear-gradient(#f5e506,#e98615) ;
+    color: black;
     display: flex;
     justify-content: center;
     align-items: center;
