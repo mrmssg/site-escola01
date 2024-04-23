@@ -12,6 +12,9 @@ body{
     justify-content:space-around;
     padding: 24px 0;
 }
+.cabecalho-titulo{
+    padding: 24px 0;
+}
 .cabeçalho-imagem{
     width: 10%;
 }
