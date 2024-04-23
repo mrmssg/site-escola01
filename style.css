@@ -15,6 +15,7 @@ body{
 .cabecalho-titulo{
     padding: 24px 0;
     margin: 0 16px;
+    font-size:24px;
 }
 .cabeçalho-imagem{
     width: 10%;
