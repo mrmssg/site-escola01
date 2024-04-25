@@ -74,3 +74,6 @@ body{
 .referencia{
     font-size: 6px;
 }
+#nome{
+    font-weight: bold;
+}
