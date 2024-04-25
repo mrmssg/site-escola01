@@ -74,6 +74,10 @@ body{
 .referencia{
     font-size: 6px;
 }
+.saudação{
+    background-color: #eeea05;
+    text-align: center;
+}
 #nome{
     font-weight: bold;
 }
