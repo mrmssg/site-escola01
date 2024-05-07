@@ -84,3 +84,16 @@ body{
 #nome-usuario{
     font-weight: bold;
 }
+.patronesse-imagem{
+    border-radius: 8%;
+    border: 10px solid #804706;
+    width: 30%;
+}
+.patronesse{
+    background-image:linear-gradient(#f5e506,#e98615) ;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
