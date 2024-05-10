@@ -57,9 +57,8 @@ body{
     padding: 16px 0;
 }
 .estudantes-todos{
-    align-items: center;
     display: grid;
-    grid-template-columns: 20% 20% 20%;
+    grid-template-columns: 30% 30% 30%;
 }
 .estudantes-titulo{
     text-align: center;
