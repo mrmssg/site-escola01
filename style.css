@@ -89,7 +89,7 @@ body{
     width: 20%;
 }
 .patronesse{
-    background-image:linear-gradient(#f5e506,#e98615) ;
+    background-image:linear-gradient(#e98615,#f5e506) ;
     color: black;
     display: flex;
     justify-content: center;
