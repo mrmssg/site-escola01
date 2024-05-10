@@ -87,6 +87,7 @@ body{
     border-radius: 8%;
     border: 10px solid #804706;
     width: 20%;
+    padding: 10px;
 }
 .patronesse{
     background-image:linear-gradient(#e98615,#f5e506) ;
