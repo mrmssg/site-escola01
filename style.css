@@ -58,7 +58,7 @@ body{
 }
 .estudantes-todos{
     display: grid;
-    grid-template-columns: 25% 25% 25%;
+    grid-template-columns: 10% 10% 20% 20% 20% 20% 10% 10%;
 }
 .estudantes-titulo{
     text-align: center;
